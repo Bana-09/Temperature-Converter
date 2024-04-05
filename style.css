@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    font-family: monospace;
+    font-size: 20px;
+}
+body{
+    background-color: #FFB000;
+}
+.content{
+   
+    margin: 200px;
+    background-color: #F1EFEF;
+    border: 1px solid #004225;
+    border-radius: 10px;
+    padding: 100px;
+}
+input{
+    padding: 6px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 10px;
+    background-color: #610C9F;
+    color: #fff;
+    margin-top: 15px;
+    margin-left: 15rem;
+}
+select{
+    border-radius: 10px;
+    background-color: #940B92;
+    color: #fff;
+}
